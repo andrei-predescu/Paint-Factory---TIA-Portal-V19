@@ -23,3 +23,4 @@ The complete TIA Portal V19 project is available in the Releases section as:
 - Siemens TIA Portal V19
 - WinCC
 - Siemens Open Library V19
+- PLC Sim + Advanced
