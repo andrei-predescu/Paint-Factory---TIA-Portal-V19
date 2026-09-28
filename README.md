@@ -24,3 +24,9 @@ The complete TIA Portal V19 project is available in the Releases section as:
 - WinCC
 - Siemens Open Library V19
 - S7 PLCSIM V19 + Advanced
+
+## Download TIA Portal project
+
+The complete TIA Portal V19 project archive is available under:
+
+**Releases → v1.0 → Assets → Fabrica.zap19.zip**
